@@ -33,7 +33,8 @@ class DestinationDetailsActivity : AppCompatActivity() {
         tvDestinationRating.text = "Rating: ${getStarRating(destinationRating)}"
     }
 
-    //rikthen yjet sipas prekjeve qe i prek
+    //rikthen yjet sipas prekjeve
+
     private fun getStarRating(rating: Int): String {
         return when (rating) {
             5 -> "★★★★★"
