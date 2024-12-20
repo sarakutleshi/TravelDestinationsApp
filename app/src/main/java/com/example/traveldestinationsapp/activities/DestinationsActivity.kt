@@ -80,13 +80,6 @@ class DestinationsActivity : AppCompatActivity() {
                 "The Colosseum, an iconic symbol of Ancient Rome."
             ),
             Destination(
-                R.drawable.image4,
-                "The Colosseum",
-                "Italy",
-                2,
-                "The Colosseum, an iconic symbol of Ancient Rome."
-            ),
-            Destination(
                 R.drawable.image5,
                 "Stonehenge",
                 "England",
